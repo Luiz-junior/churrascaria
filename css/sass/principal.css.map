@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,CAAC;EACF,UAAU,EDCM,OAAO;CCDM;;AAEjC,AAAA,KAAK,CAAC,CAAC,CAAC;EACJ,KAAK,EDCY,OAAO;ECAxB,UAAU,EAAE,sBAAsB;CAAG;;AAEzC,AAAA,KAAK,CAAC,CAAC,AAAA,MAAM,CAAC;EACV,KAAK,EDFW,OAAO;CCEE;;AAE7B,AAAA,KAAK,CAAC;EACF,WAAW,EDEG,SAAS,EAAE,OAAO;ECDhC,YAAY,EAAE,MAAM;EACpB,KAAK,EDRY,OAAO;CCQK;;AAEjC,AAAA,KAAK,CAAC,CAAC,CAAC;EACJ,eAAe,EAAE,IAAI;CAAG",
+    "sources": [
+        "principal.sass",
+        "_cabecalho_redes_sociais.sass"
+    ],
+    "names": [],
+    "file": "principal.css"
+}
